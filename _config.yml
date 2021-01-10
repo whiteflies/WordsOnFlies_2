@@ -29,13 +29,13 @@ favicon: https://raw.githubusercontent.com/whiteflies/WordsOnFlies_2/master/imag
 
 # Buttons in the menu
 navigation:
-  - name: Laura Lungu
+  - name: Home
     url: /wordsonflies.xyz
-  - name: 关于
+  - name: Blog
     url: /about
-  - name: 归档
+  - name: Publications
     url: /archive
-  - name: 标签
+  - name: CV
     url: /tags
 
 # Number of articles per page
