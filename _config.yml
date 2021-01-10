@@ -10,17 +10,17 @@
 name: Laura Lungu
 description: I use the Drosophila larva brain connectome to study multisensory integration from behaviour to genes, discovering how neural circuit structure relates to function.
 
-# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+#Enter your website domain name (if you did not add your own domain name, but directly use the domain name assigned by GitHub pages, you can omit it) 
+url: wordsonflies.xyz
 
-# 添加你的博客的二级域名，一般来说是你的repository名
-# 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
-# 那么就写成 "/repository-name"
-baseurl: /LOFFER
+# Add the second-level domain name of your blog, generally your repository name
+# If the URL of your blog is: (http://yourusername.github.io/repository-name)
+# Then write "/repository-name"
+baseurl: /WordsOnFlies_2
 
 
 #
-# 下面的设定都是可选的
+# The following settings are optional
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
