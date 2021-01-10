@@ -31,7 +31,7 @@ favicon: https://raw.githubusercontent.com/whiteflies/WordsOnFlies_2/master/imag
 navigation:
   - name: Home
     url: /wordsonflies.xyz
-  - name: Blog
+  - name: About
     url: /about
   - name: Publications
     url: /archive
@@ -49,18 +49,19 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: laura.lungum@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
+  linkedin: https://www.linkedin.com/in/laura-lungu-907616135/
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
+  twitter: https://twitter.com/LauraLungum
   youtube: # channel/<your_long_string> or user/<user-name>
+  orcid: https://orcid.org/0000-0002-3186-0949
 
 # Site footer text
 footer-text: Copyright (c) 2019 来自中世界
