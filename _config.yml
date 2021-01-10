@@ -30,10 +30,10 @@ avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
-# 菜单中的按钮
+# Buttons in the menu
 navigation:
-  - name: 首页
-    url: /
+  - name: Laura Lungu
+    url: /wordsonflies.xyz
   - name: 关于
     url: /about
   - name: 归档
@@ -41,7 +41,7 @@ navigation:
   - name: 标签
     url: /tags
 
-# 每页的文章数
+# Number of articles per page
 paginate: 8
 
 # 文章简介的区分标记
