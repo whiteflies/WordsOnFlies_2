@@ -13,10 +13,7 @@ description: I use the Drosophila larva brain connectome to study multisensory i
 #Enter your website domain name (if you did not add your own domain name, but directly use the domain name assigned by GitHub pages, you can omit it) 
 url: wordsonflies.xyz
 
-# Add the second-level domain name of your blog, generally your repository name
-# If the URL of your blog is: (http://yourusername.github.io/repository-name)
-# Then write "/repository-name"
-baseurl: /WordsOnFlies_2
+baseurl: /
 
 
 #
