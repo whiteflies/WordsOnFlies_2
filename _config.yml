@@ -89,7 +89,7 @@ utteranc:
   repo: # Your github repo path, also see: https://utteranc.es
 
 #
-# !! 以下所有设置都不需要更改 !!
+# !! All the following settings do not need to be changed !!
 #
 
 permalink: /:title/
