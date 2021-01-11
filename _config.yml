@@ -33,9 +33,9 @@ navigation:
     url: /
   - name: About
     url: /about
-  - name: Publications
+  - name: Blog
     url: /archive
-  - name: CV
+  - name: Publications
     url: /tags
 
 # Number of articles per page
