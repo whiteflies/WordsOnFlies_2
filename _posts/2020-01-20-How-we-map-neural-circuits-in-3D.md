@@ -3,8 +3,8 @@ layout: post
 title: How we map the neural network in 3D w/ synaptic resolution
 date: 2020-01-20
 Author: Laura Lungu
-tags: [sample, document]
-comments: true
+#tags: [sample, document]
+comments: false
 ---
 
 **How we map the neural network in 3D w/ synaptic resolution**
