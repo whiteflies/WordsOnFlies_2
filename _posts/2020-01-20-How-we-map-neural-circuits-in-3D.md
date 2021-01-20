@@ -1,3 +1,12 @@
+---
+layout: post
+title: How we map the neural network in 3D w/ synaptic resolution
+date: 2020-01-20
+Author: Laura Lungu
+tags: [sample, document]
+comments: true
+---
+
 **How we map the neural network in 3D w/ synaptic resolution**
 
 You probably wondered at some point if this is possible and if so how?
